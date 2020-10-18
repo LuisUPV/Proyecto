@@ -9,4 +9,4 @@ Se pueden registrar nuevos usuarios desde la sección "CUENTA" en el menú.
 
 El usuario administrador es: "LuisCarlosAnayaAvalos" y su contraseña es: "123456"
 
-Se puede acceder al usuario administrador tanto por medio de la sección "CUENTA" como la ruta /wp-admin, usandose las mimas credenciales.
+Se puede acceder al usuario administrador tanto por medio de la sección "CUENTA" como la ruta /wp-admin, usando las mismas credenciales.
